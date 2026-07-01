@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0434/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0434/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說頞多和多耆經
+  identifiers:
+    krp: KR6i0434
+    cbeta: T17n0740
+    cbeta_old_id: T17n0740
+    authorityid: CA0000810
+    json_key: T0740
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0740.xml
+    old_id: T17n0740
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0434_000-T.yaml, hash: 'sha256:8c751c5345805a311a7bd4d842a7f1e255718230b8e4d573ffac6333e102429d'}
+  - {seq: 1, filename: KR6i0434_001-T.yaml, hash: 'sha256:fbca25ffc143c1bc38869e8a39e2bcebfab88923230cd5ea6d1bfc0982796117'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0434_000-T.markers.yaml, hash: 'sha256:ceca159272a4e6b111c7477230a67cf151e3237c318d138c381331b33b72d853'}
+  - {seq: 1, role: markers, filename: assets/KR6i0434_001-T.markers.yaml, hash: 'sha256:ea06beff6186f59c149ec4e1892ba6a62de74ec41399165c17d0d8b0c09626f2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0434_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 494
+  label: 佛說頞多和多耆經
+  type: juan
+  level: 1
+hash: sha256:07af660421800925e45de95b088be2eef70d70eba5934c050fd71f0f01145dc1

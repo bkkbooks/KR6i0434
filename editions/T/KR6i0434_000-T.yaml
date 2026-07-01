@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0434/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說頞多和多耆經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0740.xml
+    old_id: T17n0740
+hash: sha256:8c751c5345805a311a7bd4d842a7f1e255718230b8e4d573ffac6333e102429d
